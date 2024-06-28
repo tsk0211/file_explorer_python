@@ -1,4 +1,4 @@
-#File explorer app created using OOPs and pythons GUI library Tkinter.
+File explorer app created using OOPs and pythons GUI library Tkinter.
 
 I have used the classic python GUI Tkinter library to create a real-time working file explorer.
 This is made for learning purposes of Object Oriented Programming.
